@@ -47,7 +47,7 @@
     "basic-dropdown"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.5",
+    "ember-cli-babel": "^6.8.2",
     "ember-cli-htmlbars": "^1.0.1",
     "ember-get-config": "0.0.2",
     "ember-wormhole": "0.3.4",
